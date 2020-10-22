@@ -1,0 +1,16 @@
+﻿body {
+    background-color: pink;
+}
+p {
+    margin-left: 50px;
+    background-color: white;
+    color: red;
+    font-family: Verdana;
+    font-size: 12px;
+}
+table {
+    font-family: Verdana;
+    font-size:large;
+    font-weight:500;
+    margin-left:150px;
+}
